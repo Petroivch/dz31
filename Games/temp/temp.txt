@@ -1,0 +1,10 @@
+Стуктура каталогов создана D:\Java\dz31\Games\src\main
+Стуктура каталогов создана D:\Java\dz31\Games\src\test
+Стуктура каталогов создана D:\Java\dz31\Games\res\drawables
+Стуктура каталогов создана D:\Java\dz31\Games\res\vectors
+Стуктура каталогов создана D:\Java\dz31\Games\res\icons
+Стуктура каталогов создана D:\Java\dz31\Games\savegames
+Стуктура каталогов создана D:\Java\dz31\Games\temp
+Файл создан D:\Java\dz31\Games\src\main\Main.java
+Файл создан D:\Java\dz31\Games\src\main\Utils.java
+Файл создан D:\Java\dz31\Games\temp\temp.txt
